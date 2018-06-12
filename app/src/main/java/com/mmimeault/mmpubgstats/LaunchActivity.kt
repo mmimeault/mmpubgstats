@@ -17,6 +17,6 @@ class LaunchActivity : AppCompatActivity() {
     }
 
     companion object {
-        private val UI_ANIMATION_DELAY = 2000
+        private val UI_ANIMATION_DELAY = 200
     }
 }
